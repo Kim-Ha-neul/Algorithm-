@@ -38,6 +38,7 @@ public class BOJ_17478 {
 		for (int i = 0; i < idx; i++) {
 			sb.append("____");
 		}
+
 		sb.append("\"재귀함수가 뭔가요?\"\n");
 		for (int i = 0; i < idx; i++) {
 			sb.append("____");
