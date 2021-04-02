@@ -43,6 +43,7 @@ public class BOJ_17478 {
 		for (int i = 0; i < idx; i++) {
 			sb.append("____");
 		}
+
 		sb.append("\"잘 들어보게. 옛날옛날 한 산 꼭대기에 이세상 모든 지식을 통달한 선인이 있었어.\n");
 		for (int i = 0; i < idx; i++) {
 			sb.append("____");
