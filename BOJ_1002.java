@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 
+
 public class BOJ_1002 {
 	static int N, x1, y1, r1, x2, y2, r2, ans;
 	static double distanse, subtract;
