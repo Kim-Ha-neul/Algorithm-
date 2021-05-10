@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
+
 public class BOJ_17136 {
 	static int N = 10;
 	static int ans;
