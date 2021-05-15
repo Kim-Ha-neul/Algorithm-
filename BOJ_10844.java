@@ -33,6 +33,7 @@ public class BOJ_10844 {
 		System.out.println(sum % 1000000000);
 	}
 
+
 	public static void main(String[] args) {
 		new BOJ_10844().Solution();
 	}
