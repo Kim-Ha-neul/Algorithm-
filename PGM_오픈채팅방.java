@@ -1,4 +1,5 @@
 import java.util.*;
+
 class Solution {
     public String[] solution(String[] record) {
         String[] save = new String[record.length];
