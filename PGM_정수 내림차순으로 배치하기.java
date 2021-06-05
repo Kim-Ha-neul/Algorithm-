@@ -3,6 +3,7 @@ class Solution {
     public long solution(long n) {
          long answer = 0;
         
+
         long m = n;
         int cnt = 1;
         while(n >= 10) {
