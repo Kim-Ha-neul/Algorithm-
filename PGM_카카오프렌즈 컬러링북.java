@@ -10,6 +10,7 @@ class Solution {
 
 	}
 
+
 	int dr[] = { -1, 1, 0, 0 };
 	int dc[] = { 0, 0, -1, 1 };
     public int[] solution(int m, int n, int[][] picture) {
