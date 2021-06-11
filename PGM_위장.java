@@ -14,6 +14,7 @@ class Solution {
 		int num = 1;
 
 		
+
 		for (String s : map.keySet()) {
 			num *= map.get(s) + 1 ;
 		}
