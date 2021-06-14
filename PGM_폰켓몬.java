@@ -7,3 +7,4 @@ function solution(nums) {
     answer = nums.length / 2;
     return answer < myMap.size ? answer : myMap.size;
 }
+
