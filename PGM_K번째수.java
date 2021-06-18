@@ -10,6 +10,7 @@ function solution(array, commands) {
                 });
         answer.push(nums[commands[i][2] - 1]);
     }
+
     return answer;
 }
 
