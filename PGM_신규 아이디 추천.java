@@ -25,6 +25,8 @@ class Solution {
 		}
 
 
+
+
 		// step 4.
 		str = answer.toCharArray();
 		answer = "";

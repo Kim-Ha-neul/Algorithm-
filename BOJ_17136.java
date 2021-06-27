@@ -20,6 +20,7 @@ public class BOJ_17136 {
 		}
 	}
 	
+
 	static void recur(int index, int[][] chkmap, int cnt, int[] paper) {
 		if(cnt >= ans) {
 			return;
