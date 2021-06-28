@@ -9,7 +9,3 @@ function solution(nums) {
 }
 
 
-
-
-
-
